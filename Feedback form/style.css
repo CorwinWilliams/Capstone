@@ -1,0 +1,71 @@
+#top {
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    background: lightgrey;
+    height: 11vh;
+    padding: 10px;
+    font-size: larger;
+    text-decoration: underline;
+    text-decoration-thickness: 5%;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#topics {
+    border-radius: 5px;
+    background: lightgrey;
+    padding: 10px;
+    margin-top: 20px;
+    height: 12vh;
+}
+
+#contact {
+    border-radius: 5px;
+    background: lightgray;
+    padding: 10px;
+}
+
+#rating {
+    border-radius: 5px;
+    margin-top: 20px;
+    background: lightgray;
+    padding: 10px;
+    text-size-adjust: 20%;
+    height: 11vh;
+}
+
+#speed {
+    border-radius: 5px;
+    margin-top: 20px;
+    background: lightgrey;
+    padding: 10px;
+    height: 20vh;
+}
+
+#feedback {
+    border-radius: 5px;
+    margin-top: 20px;
+    background: lightgray;
+    padding: 10px;
+    height: 10vh;
+}
+
+h1 {
+    font-size: small;
+}
+#input {
+    margin: 2px;
+    padding: 1px;
+}
+
+#anon {
+    font-size: small;
+    margin: 2px;
+    padding: -5px;
+}
+
+#Terrible {
+    padding-top: 15px;
+    align-content: space-evenly;
+}
